@@ -1,0 +1,90 @@
+id: P3AE7DD0C
+initial_creation_type: input
+source_metadata:
+  title: Sarvadharmāpravṛttinirdeśa
+  language: zh
+  volumes:
+    1899256d44b64c8eaa552c63542f0bc5:
+      title: CI_§9,i
+      base_file: CI_§9,i.txt
+      work_id: WAB4E5AA5
+    8f315acb19cf490da18f45a886f418f6:
+      title: CI_§9,ii
+      base_file: CI_§9,ii.txt
+      work_id: W21EB264D
+    d550a6b8b39441f3a6774965485b48c3:
+      title: CI_§9,iii
+      base_file: CI_§9,iii.txt
+      work_id: WFF5B0F44
+    00cd4e98150c4c0cb41c6a9c29de0dc4:
+      title: CI_§9,iv
+      base_file: CI_§9,iv.txt
+      work_id: W04372047
+    d344e6194b214e27aa4481269f6f0dfa:
+      title: CI_§9,v
+      base_file: CI_§9,v.txt
+      work_id: WC26E044D
+    f5d7361de110494ab088632cb612fe69:
+      title: 'CI_§9,vi: Conclusion'
+      base_file: 'CI_§9,vi: Conclusion.txt'
+      work_id: W84540F0F
+    ec64626f953643aba109f24e6e5b1beb:
+      title: Colophon
+      base_file: Colophon.txt
+      work_id: WFE8AC057
+    71c16c171b2c462e8159b5f6048e3794:
+      title: Title
+      base_file: Title.txt
+      work_id: W53354950
+    5f7bce23eac44a80b7c8dfbdb7882317:
+      title: §1
+      base_file: §1.txt
+      work_id: WA0AA27A7
+    c527032e1e8a4f089683bae703292eb6:
+      title: §10
+      base_file: §10.txt
+      work_id: WD0EA6121
+    77b36b499eb6461d9c618506bb639f00:
+      title: §11
+      base_file: §11.txt
+      work_id: W27E788BC
+    32d0e8b336724f5387b51c0683b86d0f:
+      title: §12
+      base_file: §12.txt
+      work_id: W04DC2A80
+    d1c4760345334687ac00064bec299218:
+      title: §13
+      base_file: §13.txt
+      work_id: WEA566401
+    786d654931cb48338d1a8aad8979cdab:
+      title: §2
+      base_file: §2.txt
+      work_id: W3FF5F614
+    e7650355973c4d8db782bdba5750f3fa:
+      title: §3
+      base_file: §3.txt
+      work_id: W4CA87C80
+    0c324cc7a76848a189a5057da78c8777:
+      title: §4
+      base_file: §4.txt
+      work_id: W27A776F5
+    4b1abf5a5a504730bfa6099273946e7a:
+      title: §5
+      base_file: §5.txt
+      work_id: WC2AE33C1
+    8fc7ebe3d27c40209876f861c621578f:
+      title: §6
+      base_file: §6.txt
+      work_id: WBCA3AA5D
+    17e4bf552fda46f4943c64f0d120bd7d:
+      title: §7
+      base_file: §7.txt
+      work_id: WA35F5D74
+    b6248c40aa6d4ca9b0f974ed17da560a:
+      title: §8
+      base_file: §8.txt
+      work_id: W658A09D1
+  chapter_to_tile:
+    CI: §9
+created_at: '2022-03-01T21:50:48.116716'
+last_modified_at: '2022-03-01T21:50:48.116724'
